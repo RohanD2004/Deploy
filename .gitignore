@@ -14,7 +14,7 @@ coverage
 out/
 
 # production
-build
+# build
 production
 public/uploads/**/
 
